@@ -30,7 +30,6 @@ ul {
 
 li {
   padding: .2rem 0;
-  vertical-align: middle;
 }
 
 h1 {
@@ -43,10 +42,6 @@ h2 {
   border-bottom: 1px solid #333;
   margin-bottom: .5rem;
   padding-bottom: .1rem;
-}
-
-img {
-  height: 20px;
 }
 
 .button {

@@ -9,9 +9,7 @@ export const steps = [
     },
     {
         header: "Tidtaking",
-        steps: [
-            "Trykk __PLAY__ for å starte tid, og __STOPP__ for å stoppe tiden",
-        ],
+        steps: ["Trykk __PLAY__ for å starte tid, og __STOPP__ for å stoppe tiden"],
     },
     {
         header: "Mål",
@@ -23,11 +21,7 @@ export const steps = [
     },
     {
         header: "Endre lengde på omganger",
-        steps: [
-            "Trykk __H-__ (langt trykk)",
-            "Juster tiden med __H+__ og __H-__",
-            "Bekreft med __OK__",
-        ],
+        steps: ["Trykk __H-__ (langt trykk)", "Juster tiden med __H+__ og __H-__", "Bekreft med __OK__"],
     },
     {
         header: "Korrigere kamptiden",
